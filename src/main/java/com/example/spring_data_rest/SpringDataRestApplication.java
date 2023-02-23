@@ -11,3 +11,12 @@ public class SpringDataRestApplication {
     }
 
 }
+
+/**
+ * endpoints
+ * <p>
+ * /actuator/health
+ * /actuator/info
+ * /actuator/beans
+ * /actuator/mappings
+ */
